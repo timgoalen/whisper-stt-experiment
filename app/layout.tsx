@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Whisper STT Experiment",
+  title: "AsseblyAI STT Experiment",
   description: "Speech to text",
 };
 
